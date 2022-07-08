@@ -1,0 +1,12 @@
+{
+  "_id": "{{@ system @}}-code",
+  "type": "pipe",
+  "source": {
+    "type": "rdf",
+    "system": "{{@ system @}}",
+    "format": "xml",
+    "sort_lists": true,
+    "url": "nace/2008.rdf"
+  },
+  "symmetric_namespace_collapse": true
+}

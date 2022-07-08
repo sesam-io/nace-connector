@@ -1,0 +1,8 @@
+{
+  "datatypes": {
+    "code": {
+      "template": "templates/code.json"
+    }
+  },
+  "system-template": "templates/system.json"
+}
