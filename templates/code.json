@@ -1,5 +1,5 @@
 {
-  "_id": "{{@ system @}}-code",
+  "_id": "{{@ system @}}-code-collect",
   "type": "pipe",
   "source": {
     "type": "rdf",
